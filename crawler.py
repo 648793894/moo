@@ -1,4 +1,4 @@
-#coding:utf8
+﻿#coding:utf8
 from Tkinter import *
 from ScrolledText import ScrolledText
 import urllib
