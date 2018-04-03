@@ -10,3 +10,7 @@ for file in files:
         file_dir_path = os.path.join(root,file)
         fileList.append(file_dir_path)
         print fileList
+
+#Result
+# ['changeserver.PNG', 'cms-common-11.1.76.jar', 'handlers$py.class', 'handlers.py', 'licenseexpired.PNG', 'licenserestricted.PNG', 'needlicenseremain.PNG', 'neednewlicense.PNG', 'oswalk.py', 'rules$py.class', 'rules.py', 'SNMP_Connection_Utils.py', 'test.py', 'test_input.txt', 'test_output.html', 'utils$py.class', 'utils.py', 'versioncontrol.PNG']
+# ['C:\\Users\\molido\\Desktop\\test\\test_input.txt']
